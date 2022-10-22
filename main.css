@@ -1,0 +1,12 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#btn_back {
+    float: right;
+}
+
+#btn_back:hover {
+    color: yellow;
+}
